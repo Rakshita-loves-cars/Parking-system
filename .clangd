@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-I/Users/omawasthi/Developer/chandigarh/include"
+    - "-Iinclude"
+    - "-std=c99"
+    - "-D_POSIX_C_SOURCE=200809L"

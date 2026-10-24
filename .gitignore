@@ -1,0 +1,15 @@
+# Binaries and object files
+bin/
+obj/
+*.o
+*.out
+
+# macOS metadata
+.DS_Store
+
+# clangd cache
+.cache/
+
+# Temporary data files (data directory preserved via .gitkeep)
+data/*.dat
+data/*.csv

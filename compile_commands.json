@@ -1,0 +1,52 @@
+[
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/common.c -o obj/common.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/common.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/slot.c -o obj/slot.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/slot.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/allocation.c -o obj/allocation.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/allocation.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/manager.c -o obj/manager.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/manager.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/persistence.c -o obj/persistence.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/persistence.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/simulation.c -o obj/simulation.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/simulation.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c src/main.c -o obj/main.o",
+    "file": "/Users/omawasthi/Developer/chandigarh/src/main.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c tests/test_intervals.c -o bin/test_intervals",
+    "file": "/Users/omawasthi/Developer/chandigarh/tests/test_intervals.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c tests/test_allocation.c -o bin/test_allocation",
+    "file": "/Users/omawasthi/Developer/chandigarh/tests/test_allocation.c"
+  },
+  {
+    "directory": "/Users/omawasthi/Developer/chandigarh",
+    "command": "gcc -Wall -Wextra -pedantic -std=c99 -Iinclude -O2 -D_POSIX_C_SOURCE=200809L -c tests/run_experiments.c -o bin/run_experiments",
+    "file": "/Users/omawasthi/Developer/chandigarh/tests/run_experiments.c"
+  }
+]

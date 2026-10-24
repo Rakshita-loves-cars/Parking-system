@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_POSIX_C_SOURCE=200809L"
+      ],
+      "cStandard": "c99"
+    }
+  ],
+  "version": 4
+}
