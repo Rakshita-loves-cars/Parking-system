@@ -13,3 +13,7 @@ obj/
 # Temporary data files (data directory preserved via .gitkeep)
 data/*.dat
 data/*.csv
+
+# Local PDF documents
+*.pdf
+
